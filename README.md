@@ -1,4 +1,4 @@
-###MEU PERFIL
+### MEU PERFIL
 Oi 👋
 - Meu nome é Jean do Nascimento das Neves
 - Estou estudando a linguagem JavaScript na Alura
